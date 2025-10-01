@@ -7,18 +7,16 @@
 <p align="center">Je transforme des idées complexes en code fiable, sécurisé et évolutif.</p>
 
 ---
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468) 
-## 🚀 À propos de moi
-Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
-J’aime construire des systèmes **simples, robustes et scalables**.
-
 <p align="center">
   <!-- GitHub followers -->
   <a href="https://github.com/rishikagupta2468"><img src="https://img.shields.io/github/followers/rishikagupta2468?style=social" alt="GitHub followers"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
 </p>
+## 🚀 À propos de moi
+Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
+J’aime construire des systèmes **simples, robustes et scalables**.
 ---
 
 ## 🛠️ Langages & Frameworks
