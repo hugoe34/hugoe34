@@ -3,11 +3,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
 -->
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
-
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
 <h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Salut, moi c'est TonPseudo</h1>
----
 
+[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468) 
 <p align="center">Je transforme des idées complexes en code fiable, sécurisé et évolutif.</p>
 
 ---
