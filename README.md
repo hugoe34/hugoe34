@@ -35,6 +35,8 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 <br><br><br>
 
+![HTML 5](https://img.shields.io/badge/HTML%205?logo=html5&logoColor=%23E34F26)
+
 <table width="100%">
   <tr>
     <td align="center" width="50%">
