@@ -34,10 +34,10 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical" alt="Stats" width="100%">
+      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical&width=400" alt="Stats" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25" alt="Langages" width="100%">
+      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25&width=400" alt="Langages" width="100%">
     </td>
   </tr>
 </table>
