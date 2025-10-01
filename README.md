@@ -31,6 +31,13 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25" alt="Langages" width="500">
+</p>
+
+
+
+
 <!-- Exemple JavaScript -->
 <strong>JavaScript</strong> (85%)  
 <svg width="100%" height="14">
