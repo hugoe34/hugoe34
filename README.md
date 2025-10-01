@@ -14,12 +14,12 @@
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
 </p>
-
+<br><br>
 ## 🚀 À propos de moi
 Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
 J’aime construire des systèmes **simples, robustes et scalables**.
 ---
-
+<br><br>
 ## 🛠️ Langages & Frameworks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
