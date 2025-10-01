@@ -1,16 +1,99 @@
-## Hi there 👋
-
 <!--
-**hugoe34/hugoe34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
 -->
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+<h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Salut, moi c'est TonPseudo</h1>
+---
+
+<p align="center">Je transforme des idées complexes en code fiable, sécurisé et évolutif.</p>
+
+---
+
+## 🚀 À propos de moi
+Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
+J’aime construire des systèmes **simples, robustes et scalables**.
+
+---
+
+## 🛠️ Langages & Frameworks
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+<!-- Exemple JavaScript -->
+<strong>JavaScript</strong> (85%)  
+<svg width="100%" height="14">
+  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
+  <rect width="85%" height="14" fill="#f7df1e" rx="7"/>
+</svg>
+<sub>Frameworks: React, Next.js, Node.js</sub>  
+
+<strong>Python</strong> (80%)  
+<svg width="100%" height="14">
+  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
+  <rect width="80%" height="14" fill="#3572A5" rx="7"/>
+</svg>
+<sub>Frameworks: Django, Flask, FastAPI</sub>  
+
+<strong>Go</strong> (70%)  
+<svg width="100%" height="14">
+  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
+  <rect width="70%" height="14" fill="#00ADD8" rx="7"/>
+</svg>
+<sub>Frameworks: Gin, Echo</sub>  
+
+<strong>Rust</strong> (55%)  
+<svg width="100%" height="14">
+  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
+  <rect width="55%" height="14" fill="#dea584" rx="7"/>
+</svg>
+<sub>Frameworks: Actix, Tokio</sub>  
+
+---
+
+## 📂 Derniers projets
+
+| Projet       | Stack                  | Description rapide |
+|--------------|------------------------|--------------------|
+| **InfraSec** | Go • Docker • K8s      | CI/CD pour audits réseau et alerting temps réel |
+| **RealtimeDash** | Node.js • React • WS | Dashboard temps réel pour observabilité |
+| **PkgSigner** | Python • Cryptography | Signature & vérification de packages |
+
+---
+
+## 📈 Tech Stack
+
+---
+
+## 🐍 Mon activité GitHub
+
+![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
+
+### 🚀 Mes Stats GitHub
+
+### 🔥 Langages les plus utilisés
+![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25)
+
+### 📈 Contribution Streak
+![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=radical&hide_border=true)
+![Streak](https://github-readme-stats-kohl-nu-80.vercel.app/api?user=SKH1995&theme=radical&hide_border=true)
+
+### 🚀 Stats GitHub
+![Stats](https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical)
+
+
+
+
+
+
+---
+
+📫 Contact : **ton.email@example.com**
