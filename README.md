@@ -14,6 +14,7 @@
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
 </p>
+
 ## 🚀 À propos de moi
 Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
 J’aime construire des systèmes **simples, robustes et scalables**.
