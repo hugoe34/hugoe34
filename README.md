@@ -14,17 +14,10 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 <p align="center">
   <!-- GitHub followers -->
-  <a href="https://github.com/rishikagupta2468">
-    <img src="https://img.shields.io/github/followers/rishikagupta2468?style=social" alt="GitHub followers">
-  </a>
-
+  <a href="https://github.com/rishikagupta2468"><img src="https://img.shields.io/github/followers/rishikagupta2468?style=social" alt="GitHub followers"></a>
+  <a>             </a>
   <!-- Repo stars -->
-  <a href="https://github.com/rishikagupta2468?tab=stars">
-    <img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars">
-  </a>
-
-  <!-- Technologies -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
 </p>
 ---
 
