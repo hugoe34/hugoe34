@@ -135,7 +135,6 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 
 
-
 <!--
 <strong>JavaScript</strong> (85%)  
 <svg width="100%" height="14">
