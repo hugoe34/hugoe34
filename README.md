@@ -52,7 +52,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <br>
 
 ## 🛠️ Langages de programation
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-270065?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
