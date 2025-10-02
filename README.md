@@ -72,15 +72,6 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![AJAX](https://img.shields.io/badge/AJAX-0052CC?style=for-the-badge&logo=ajax&logoColor=white)
 
 ## Data Gestion
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-B71C1C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-128ABC?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
@@ -89,6 +80,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?&logo=elastic&logoColor=white)
 
 ## Gestion / Administration / controle / Diver
 ![Apache](https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white)
