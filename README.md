@@ -21,7 +21,10 @@
 
 ## 🚀 À propos de moi
 <p align="center">
-Je suis un développeur passionné par l’univers du numérique et du développement sous toutes ses formes. Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les technologies qui façonnent le monde d’aujourd’hui et de demain.
+Je suis un développeur passionné par l’univers du numérique et du développement sous toutes ses formes. 
+</p>
+<p align="center">
+Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les technologies qui façonnent le monde d’aujourd’hui et de demain.
 </p>
 
 <p align="center">
