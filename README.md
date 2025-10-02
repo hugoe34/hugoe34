@@ -32,9 +32,14 @@ Titulaire d’un BTS SIO, spécialité SLAM, et actuellement étudiant à Epitec
 </p>
 
 <p align="center">
-Curieux, rigoureux et créatif, je m’investis pleinement dans mes projets et recherches. Pour moi, le développement n’est pas seulement un métier : c’est une passion et un moteur d’innovation.
+Curieux, rigoureux et créatif, je m’investis pleinement dans mes projets et recherches.
 </p>
+<p align="center">
+Pour moi, le développement n’est pas seulement un métier : c’est une passion et un moteur d’innovation.
+</p>
+
 ---
+
 <br>
 
 ## 🛠️ Langages & Frameworks
