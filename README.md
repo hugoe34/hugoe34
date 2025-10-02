@@ -88,9 +88,17 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-![NetBeans](https://img.shields.io/badge/NetBeans-0078CE?style=for-the-badge&logo=netbeans&logoColor=white)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)]
 
 <br><br>
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Mes Stats GitHub</h2>
