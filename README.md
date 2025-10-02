@@ -10,12 +10,13 @@
 <p align="center">
   <!-- GitHub followers -->
   <a href="https://github.com/hugoegry"><img src="https://img.shields.io/github/followers/hugoegry?style=social" alt="GitHub followers"></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <!-- Repo stars -->
-  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
 
-</p> <!-- add mail-->
+  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/E-mail-hugo.egry@epitech.eu-blue?style=flat-square&logo=gmail"></a>
+
+</p>
 <br><br>
 
 ## 🚀 À propos de moi
