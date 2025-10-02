@@ -20,8 +20,8 @@
 <br><br>
 
 ## 🚀 À propos de moi
-Ingénieur logiciel full-stack avec solide background en **réseaux** et **cybersécurité**.  
-J’aime construire des systèmes **simples, robustes et scalables**.
+<p>Ingénieur logiciel full-stack avec solide background en <strong>réseaux</strong> et <strong>cybersécurité</strong>.</p>
+<p>J’aime construire des systèmes <strong>simples, robustes et scalables</strong>.</p>
 ---
 <br>
 
