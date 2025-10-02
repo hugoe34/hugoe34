@@ -13,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
-</p>
+</p> <!-- add mail-->
 <br><br>
 
 ## 🚀 À propos de moi
@@ -34,7 +34,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <br><br>
-<h3 align="center">🚀 Mes Stats GitHub</h3>
+<h2 align="center">🚀 Mes Stats GitHub</h2>
 <br>
 
 <table align="center" width="100%">
