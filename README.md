@@ -44,7 +44,7 @@ Pour moi, le <strong>développement</strong> n’est pas seulement un métier : 
 Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour mettre mes compétences en pratique et contribuer à des projets concrets.
 </p>
 
-<p align="center">N’hésitez pas à me contacter :  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
+<p align="center">**N’hésitez pas à me contacter :**  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
 
 
 ---
