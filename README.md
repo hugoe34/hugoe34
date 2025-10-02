@@ -18,7 +18,7 @@
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
 </p>
 <br><br>
-<h2 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> À propos de moi</h2>
+<h2 align="left"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> À propos de moi</h2>
 
 ## 🚀 À propos de moi
 <p align="center">
