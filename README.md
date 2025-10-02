@@ -16,6 +16,18 @@
   &nbsp;
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
+
+
+  <img src="https://img.shields.io/badge/Email-ton.email@mail.ru-blue?logo=maildotru">
+  <img src="https://img.shields.io/badge/Email-ton.email@protonmail.com-purple?logo=protonmail">
+  <img src="https://img.shields.io/badge/Email-ton.email@yahoo.com-6001D2?logo=yahoo">
+  <img src="https://img.shields.io/badge/Email-ton.email@outlook.com-0078D4?logo=outlook">
+  <img src="https://img.shields.io/badge/Email-thunderbird-blue?logo=thunderbird">
+
+
+
+
+
 </p>
 <br><br>
 
