@@ -9,7 +9,7 @@
 ---
 <p align="center">
   <!-- GitHub followers -->
-  <a href="https://github.com/rishikagupta2468"><img src="https://img.shields.io/github/followers/rishikagupta2468?style=social" alt="GitHub followers"></a>
+   <a href="https://github.com/hugoegry"><img src="https://img.shields.io/github/followers/hugoegry?style=social" alt="GitHub followers"></a>
   &nbsp;&nbsp;&nbsp;
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/rishikagupta2468?style=social" alt="GitHub stars"></a>
