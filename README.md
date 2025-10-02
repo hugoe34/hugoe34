@@ -88,7 +88,8 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-6F50A6?style=for-the-badge&logo=visual-studio&logoColor=white)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![NetBeans](https://img.shields.io/badge/NetBeans-0078CE?style=for-the-badge&logo=netbeans&logoColor=white)
 
 <br><br>
