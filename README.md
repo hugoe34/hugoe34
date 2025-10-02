@@ -35,7 +35,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 <br><br><br>
 
-### 🚀 Mes Stats GitHub
+<h3 align="center">🚀 Mes Stats GitHub</h3>
 
 <table align="center" width="100%">
   <tr>
