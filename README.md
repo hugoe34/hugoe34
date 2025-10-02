@@ -56,7 +56,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![CSS 3](https://img.shields.io/badge/css%203-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/html%205-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/java%20script-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
