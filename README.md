@@ -52,7 +52,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 
 
-<!-- Exemple JavaScript -->
+<!--
 <strong>JavaScript</strong> (85%)  
 <svg width="100%" height="14">
   <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
@@ -79,7 +79,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
   <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
   <rect width="55%" height="14" fill="#dea584" rx="7"/>
 </svg>
-<sub>Frameworks: Actix, Tokio</sub>  
+<sub>Frameworks: Actix, Tokio</sub>  -->
 
 ---
 
@@ -93,9 +93,11 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 ---
 
+<!--
 ## 📈 Tech Stack
 
 ---
+-->
 
 ## 🐍 Mon activité GitHub
 
