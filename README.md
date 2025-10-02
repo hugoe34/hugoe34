@@ -98,7 +98,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 <br><br>
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Mes Stats GitHub</h2>
