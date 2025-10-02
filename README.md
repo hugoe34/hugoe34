@@ -50,7 +50,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ---
 
 <br>
-<h2 align="center"><img src="https://media.baamboozle.com/uploads/images/109550/1632906698_257202_gif-url.gif" height="30" width="30"> Mes competences</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Mes competences</h2>
 
 ## 🛠️ Langages de programation
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
