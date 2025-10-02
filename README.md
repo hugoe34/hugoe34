@@ -58,7 +58,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
 ![Lua](https://img.shields.io/badge/LUA-2C2D72?&logo=lua&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
@@ -86,7 +86,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ## Gestion / Administration / controle / Diver
 ![Apache](https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13B8F1?&logo=portainer&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
