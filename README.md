@@ -53,8 +53,8 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ## 🛠️ Langages de programation
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
-![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css&logoColor=white)
-![HTML 5](https://img.shields.io/badge/html%205-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
