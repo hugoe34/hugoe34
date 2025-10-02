@@ -40,6 +40,17 @@ Titulaire d’un <strong>BTS SIO, spécialité SLAM</strong>, et actuellement é
 Pour moi, le <strong>développement</strong> n’est pas seulement un métier : c’est une <strong>passion</strong> et un <strong>moteur d’innovation</strong>.
 </p>
 
+<p align="center">
+Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour mettre mes compétences en pratique et contribuer à des projets concrets.
+</p>
+
+<p align="center">
+N’hésitez pas à me contacter :  
+<a href="mailto:ton.email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ton.email@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+</p>
+
 ---
 
 <br>
