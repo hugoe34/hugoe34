@@ -49,6 +49,20 @@ N’hésitez pas à me contacter :
 <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      N’hésitez pas à me contacter :
+    </td>
+    <td>
+      <a href="mailto:ton.email@gmail.com">
+        <img src="https://img.shields.io/badge/Email-ton.email@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 <br>
