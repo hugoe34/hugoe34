@@ -20,8 +20,17 @@
 <br><br>
 
 ## 🚀 À propos de moi
-<p style="font-size:30px;">Ingénieur logiciel full-stack avec solide background en <strong>réseaux</strong> et <strong>cybersécurité</strong>.</p>
-<p>J’aime construire des systèmes <strong>simples, robustes et scalables</strong>.</p>
+<p align="center">
+Je suis un développeur passionné par l’univers du numérique et du développement sous toutes ses formes. Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les technologies qui façonnent le monde d’aujourd’hui et de demain.
+</p>
+
+<p align="center">
+Titulaire d’un BTS SIO, spécialité SLAM, et actuellement étudiant à Epitech, je poursuis un master en développement pour allier expertise technique et vision globale des enjeux numériques.
+</p>
+
+<p align="center">
+Curieux, rigoureux et créatif, je m’investis pleinement dans mes projets et recherches. Pour moi, le développement n’est pas seulement un métier : c’est une passion et un moteur d’innovation.
+</p>
 ---
 <br>
 
