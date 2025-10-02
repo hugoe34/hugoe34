@@ -64,7 +64,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ## Frameworks & Autre
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/Type%20Script-3178C6?logo=typescript&logoColor=fff)](#)
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)
@@ -82,7 +82,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?&logo=elastic&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?&logo=elastic&logoColor=white)
 
 ## Gestion / Administration / controle / Diver
 ![Apache](https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white)
