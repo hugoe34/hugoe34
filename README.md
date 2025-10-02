@@ -35,7 +35,7 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 
 <br><br><br>
 
-![HTML 5](https://img.shields.io/badge/HTML%205?logo=html5&logoColor=%23E34F26)
+### 🚀 Mes Stats GitHub
 
 <table width="100%">
   <tr>
@@ -100,24 +100,6 @@ J’aime construire des systèmes **simples, robustes et scalables**.
 ## 🐍 Mon activité GitHub
 
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
-
-### 🚀 Mes Stats GitHub
-
-### 🔥 Langages les plus utilisés
-![Langages](https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25)
-
-### 📈 Contribution Streak
-![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=radical&hide_border=true)
-![Streak](https://github-readme-stats-kohl-nu-80.vercel.app/api?user=SKH1995&theme=radical&hide_border=true)
-
-### 🚀 Stats GitHub
-![Stats](https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical)
-
-
-
-
-
-
 ---
 
 📫 Contact : **ton.email@example.com**
