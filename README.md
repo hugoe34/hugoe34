@@ -21,21 +21,23 @@
 
 ## 🚀 À propos de moi
 <p align="center">
-Je suis un développeur passionné par l’univers du numérique et du développement sous toutes ses formes. 
-</p>
-<p align="center">
-Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les technologies qui façonnent le monde d’aujourd’hui et de demain.
+Je suis un développeur passionné par l’univers du <strong>numérique</strong> et du <strong>développement</strong> sous toutes ses formes.
 </p>
 
 <p align="center">
-Titulaire d’un BTS SIO, spécialité SLAM, et actuellement étudiant à Epitech, je poursuis un master en développement pour allier expertise technique et vision globale des enjeux numériques.
+Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les <strong>technologies</strong> qui façonnent le monde d’aujourd’hui et de demain.
 </p>
 
 <p align="center">
-Curieux, rigoureux et créatif, je m’investis pleinement dans mes projets et recherches.
+Titulaire d’un <strong>BTS SIO, spécialité SLAM</strong>, et actuellement étudiant à <strong>Epitech</strong>, je poursuis un <strong>master en développement</strong> pour allier <strong>expertise technique</strong> et <strong>vision globale</strong> des enjeux numériques.
 </p>
+
 <p align="center">
-Pour moi, le développement n’est pas seulement un métier : c’est une passion et un moteur d’innovation.
+<strong>Curieux</strong>, <strong>rigoureux</strong> et <strong>créatif</strong>, je m’investis pleinement dans mes projets et recherches.
+</p>
+
+<p align="center">
+Pour moi, le <strong>développement</strong> n’est pas seulement un métier : c’est une <strong>passion</strong> et un <strong>moteur d’innovation</strong>.
 </p>
 
 ---
