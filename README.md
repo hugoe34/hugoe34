@@ -123,13 +123,14 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api?username=SKH1995&show_icons=true&count_private=true&theme=radical&border_radius=25&width=800" alt="Stats" width="100%">
+      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api?username=hugoegry&show_icons=true&count_private=true&theme=radical&border_radius=25&width=800" alt="Stats" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=SKH1995&layout=compact&count_private=true&theme=radical&border_radius=25&width=800" alt="Langages" width="100%">
+      <img src="https://github-readme-stats-kohl-nu-80.vercel.app/api/top-langs/?username=hugoegry&layout=compact&count_private=true&theme=radical&border_radius=25&width=800" alt="Langages" width="100%">
     </td>
   </tr>
 </table>
+
 
 
 
