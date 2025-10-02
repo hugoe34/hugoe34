@@ -20,7 +20,6 @@
 <br><br>
 <h2 align="left"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> À propos de moi</h2>
 
-## 🚀 À propos de moi
 <p align="center">
 Je suis un développeur passionné par l’univers du <strong>numérique</strong> et du <strong>développement</strong> sous toutes ses formes.
 </p>
