@@ -50,6 +50,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ---
 
 <br>
+<h2 align="center"> Mes competences</h2>
 
 ## 🛠️ Langages de programation
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
