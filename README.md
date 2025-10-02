@@ -55,11 +55,11 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
 ![CSS 3](https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/LUA-2C2D72?&logo=lua&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ## Frameworks & Autre
