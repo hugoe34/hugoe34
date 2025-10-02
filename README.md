@@ -53,24 +53,25 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ## 🛠️ Langages de programation
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
-![C#](https://img.shields.io/badge/C%23-270065?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS 3](https://img.shields.io/badge/css%203-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML 5](https://img.shields.io/badge/html%205-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/java%20script-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![CSS 3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css&logoColor=white)
+![HTML 5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?&logo=lua&logoColor=white)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ## Frameworks & Autre
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-0052CC?style=for-the-badge&logo=ajax&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-0052CC?&logo=ajax&logoColor=white)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ## Data Gestion
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -85,6 +86,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ## Gestion / Administration / controle / Diver
 ![Apache](https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13B8F1?&logo=portainer&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
