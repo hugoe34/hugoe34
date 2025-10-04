@@ -210,6 +210,8 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 ---
 -->
 
+---
+
 <p align="center">
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/hugo-egry-666182371/"><img src="https://img.shields.io/badge/Linkedin-hugo%20egry-blue0A66C2?style=social&logo=logmein&logoColor=black"></a>
