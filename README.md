@@ -1,7 +1,15 @@
 # DeezerPlayer 🎵
-
-[![GitHub stars](https://img.shields.io/github/stars/hugoegry/DeezerPlayer?style=social)](https://github.com/hugoegry/DeezerPlayer/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/hugoegry?label=Follow&style=social)](https://github.com/hugoegry)
+<p align="center">
+  <!-- GitHub followers -->
+  <a href="https://github.com/hugoegry"><img src="https://img.shields.io/github/followers/hugoegry?style=social" alt="GitHub followers"></a>
+  &nbsp;
+  <!--mail-->
+  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a> <!--@ = maildotru-->
+  &nbsp;
+  <!-- Repo stars -->
+  <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
+</p>
+<br><br>
 
 
 <h2 align="A <strong>modern C# desktop music player</strong> integrating the <strong>Deezer API</strong>, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.</h2>  
