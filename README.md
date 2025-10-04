@@ -134,7 +134,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   <tr>
     <td align="center" width="300"><b>MRHE Services<br>Corporate Showcase Website</b>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/></a><br>
