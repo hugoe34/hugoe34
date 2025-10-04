@@ -28,6 +28,8 @@
 
 ---
 
+<br>
+
 ## 🏗 Built With
 
 [![Java Script](https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)](#)
@@ -38,6 +40,8 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
 ---
+
+<br>
 
 ## 🤝 Collaborators
 
