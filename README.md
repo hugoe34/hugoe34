@@ -46,6 +46,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 <p align="center"><strong>N’hésitez pas à me contacter :</strong>  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
 
+<!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 ---
 
@@ -116,22 +117,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#)
 
-<br><br>
-<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Mes Stats GitHub</h2>
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Stats" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api/top-langs/?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Langages" width="100%">
-    </td>
-  </tr>
-</table>
-
----
+<!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <br><br>
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Derniers projets</h2>
@@ -183,12 +169,25 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 </table>
 
+<!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
-<!--
-## 📈 Tech Stack
+<br><br>
+<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Mes Stats GitHub</h2>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Stats" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api/top-langs/?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Langages" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
--->
+
 
 ## 🐍 Mon activité GitHub
 
