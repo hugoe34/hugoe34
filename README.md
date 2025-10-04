@@ -128,6 +128,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
     <th>Projet</th>
     <th>Stack</th>
     <th>Description</th>
+    <th>Link</th>
   </tr>
 
   <tr>
@@ -172,6 +173,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
     </td>
   </tr>
 </table>
+
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <br><br>
