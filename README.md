@@ -9,7 +9,7 @@
   <!-- Repo stars -->
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
 </p>
-<br><br>
+<br>
 
 
 <h2 align="A <strong>modern C# desktop music player</strong> integrating the <strong>Deezer API</strong>, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.</h2>  
