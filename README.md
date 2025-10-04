@@ -202,7 +202,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 <p align="center">
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/hugo-egry-666182371/"><img src="https://img.shields.io/badge/Linkedin- ugo%20egry-blue0A66C2?style=social&logo=logmein&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/hugo-egry-666182371/"><img src="https://img.shields.io/badge/Linkedin-hugo%20egry-blue0A66C2?style=social&logo=logmein&logoColor=black"></a>
   &nbsp;
   <!-- git hub -->
   <a href="https://github.com/hugoegry"><img src="https://img.shields.io/badge/Git%20Hub-hugoegry-blue?style=social&logo=refinedgithub"></a>
