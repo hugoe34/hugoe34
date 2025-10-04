@@ -32,3 +32,10 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/DeezerPlayer.git
+   
+2. Open the solution in Visual Studio 2022 or later.
+   
+3. Restore NuGet packages.
+
+4. Build and run the application.
+
