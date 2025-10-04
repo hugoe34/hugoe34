@@ -156,7 +156,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
       A responsive corporate showcase website built for MRHE Services, highlighting the company’s expertise and services with a modern, SEO-friendly design. Developed with performance, accessibility, and scalability in mind.
     </td>
     <td align="center" width="200">
-      <a href="https://mrheservice.fr/" target="_blank"><img src="https://img.shields.io/badge/www.mrheservice.fr-0052CC?logo=workplace&logoColor=white"/></a>
+      <a href="https://mrheservice.fr/"><img src="https://img.shields.io/badge/www.mrheservice.fr-0052CC?logo=workplace&logoColor=white"/></a>
     </td>
   </tr>
 
