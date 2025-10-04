@@ -25,9 +25,13 @@
 - ⚡ Smooth real-time audio playback
 - 💻 Built with C# and .NET for Windows desktop
 
+  ---
+
 ## 🏗 Built With
+
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
 [![DeezerAPI](https://img.shields.io/badge/Deezer-000?&logo=undertale&logoColor=9D36F7)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 
 ---
 
