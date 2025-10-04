@@ -7,7 +7,7 @@
 
 ---
 
-### Enjoying DeezerPlayer? ⭐ Star this repo and follow me on GitHub to stay updated with exciting projects and future releases!
+<h3 align="center">Enjoying DeezerPlayer? ⭐ Star this repo and follow me on GitHub to stay updated with exciting projects and future releases!</h3>   
 
 ## 🚀 Features
 
