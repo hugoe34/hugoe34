@@ -53,69 +53,78 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <br>
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>
 
-## Programming Languages
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
-[![CSS 3](https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white)](#)
-[![HTML 5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/LUA-2C2D72?&logo=lua&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LUA-2C2D72?&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
+</p>
 
-## Frameworks & Libraries
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/Type%20Script-3178C6?logo=typescript&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)](#)
-[![Django](https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)](#)
-[![AJAX](https://img.shields.io/badge/AJAX-0058CC?&logo=Mattermost&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Type%20Script-3178C6?logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AJAX-0058CC?&logo=Mattermost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"/>
+</p>
 
-## Databases & Data Management
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
-[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
-[![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
-[![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?&logo=elastic&logoColor=white)](#)
+<h3>Databases & Data Management</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic%20Search-005571?&logo=elastic&logoColor=white"/>
+</p>
 
-## Management / Administration / Control / Other
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Apache](https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white)](#)
-[![Portainer](https://img.shields.io/badge/Portainer-13B8F1?&logo=portainer&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white)](#)
-[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
-[![CISCO](https://img.shields.io/badge/CISCO-1BA0D7?&logo=cisco&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?&logo=Wireshark&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
-[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#) <!--https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white -->
+
+<h3>Management / Administration / Control / Other</h3>
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Apache-A80002?&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13B8F1?&logo=portainer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?&logo=Wireshark&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
+  <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
+</p>
 </div>
 
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
