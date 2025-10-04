@@ -120,7 +120,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <br><br>
-<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Recent Projects</h2>
+<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122649.gif" height="30" width="30"> Recent Projects</h2>
 <br>
 
 <table>
