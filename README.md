@@ -145,7 +145,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
       A responsive corporate showcase website built for MRHE Services, highlighting the company’s expertise and services with a modern, SEO-friendly design. Developed with performance, accessibility, and scalability in mind.
     </td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Workplace-0052CC?logo=jira&logoColor=white"/></a>
     </td>
   </tr>
 
