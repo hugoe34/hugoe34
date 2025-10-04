@@ -21,27 +21,27 @@
 <h2 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> About Me</h2>
 
 <p align="center">
-Je suis un développeur passionné par l’univers du <strong>numérique</strong> et du <strong>développement</strong> sous toutes ses formes.
+I am a developer passionate about the world of <strong>digital technology</strong> and software development in all its forms.
 </p>
 
 <p align="center">
-Mon parcours académique et personnel reflète ma volonté d’explorer, de comprendre et de maîtriser les <strong>technologies</strong> qui façonnent le monde d’aujourd’hui et de demain.
+My academic and personal journey reflects my determination to explore, understand, and master the <strong>technologies</strong> that shape today’s and tomorrow’s world.
 </p>
 
 <p align="center">
-Titulaire d’un <strong>BTS SIO, spécialité SLAM</strong>, et actuellement étudiant à <strong>Epitech</strong>, je poursuis un <strong>master en développement</strong> pour allier <strong>expertise technique</strong> et <strong>vision globale</strong> des enjeux numériques.
+Holder of a <strong>Higher National Diploma in Computer Science</strong>, specializing in <strong>Software Development</strong> and <strong>Business Applications</strong>, and currently a student at <strong>Epitech</strong>, I am pursuing a Master’s degree in <strong>Software Development</strong> to combine technical expertise with a strategic vision of digital challenges.
 </p>
 
 <p align="center">
-<strong>Curieux</strong>, <strong>rigoureux</strong> et <strong>créatif</strong>, je m’investis pleinement dans mes projets et recherches.
+<strong>Curious</strong>, <strong>rigorous</strong>, and <strong>creative</strong>, I dedicate myself fully to my projects and research.
 </p>
 
 <p align="center">
-Pour moi, le <strong>développement</strong> n’est pas seulement un métier : c’est une <strong>passion</strong> et un <strong>moteur d’innovation</strong>.
+For me, <strong>development</strong> is not just a profession — it is a <strong>passion</strong> and a <strong>driver of innovation</strong>.
 </p>
 
 <p align="center">
-Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour mettre mes compétences en pratique et contribuer à des projets concrets.
+I am currently seeking a <strong>work-study</strong> opportunity to apply my skills in real-world projects and contribute to meaningful technological solutions.
 </p>
 
 <p align="center"><strong>Feel free to reach out to me :</strong>  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
@@ -192,13 +192,12 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 </table>
 
----
-
-
+<!--
 ## 🐍 Mon activité GitHub
 
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
 ---
+-->
 
 <p align="center">
   <!-- linkedin -->
@@ -210,5 +209,3 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   <!-- mail -->
   <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=maildotru&logoColor=black"></a>
 </p>
-
-📫 Contact : **ton.email@example.com**
