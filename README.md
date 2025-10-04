@@ -53,7 +53,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <br>
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>
 
-## 🛠️ Langages de programation
+## Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
 [![CSS 3](https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white)](#)
 [![HTML 5](https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white)](#)
@@ -64,7 +64,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![Lua](https://img.shields.io/badge/LUA-2C2D72?&logo=lua&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
-## Frameworks & Autre
+## Frameworks & Libraries
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/Type%20Script-3178C6?logo=typescript&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)](#)
@@ -78,7 +78,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
-## Data Gestion
+## Databases & Data Management
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
@@ -89,7 +89,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
 [![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?&logo=elastic&logoColor=white)](#)
 
-## Gestion / Administration / controle / Diver
+## Management / Administration / Control / Other
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
