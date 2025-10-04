@@ -13,8 +13,6 @@
 
 <h2 align="center">A <strong>modern C# desktop music player</strong> integrating the <strong>Deezer API</strong>, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.</h2>  
 
----
-
 <h3 align="center">Enjoying DeezerPlayer? ⭐ Star this repo and follow me on GitHub to stay updated with exciting projects and future releases !</h3>   
 
 ## 🚀 Features
