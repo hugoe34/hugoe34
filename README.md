@@ -49,7 +49,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 ---
-
+<div align="center">
 <br>
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>
 
@@ -116,6 +116,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](#) <!--https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white -->
+</div>
 
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
