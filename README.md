@@ -210,6 +210,28 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 </table>
 
+
+
+<table>
+  <tr>
+    <th>Projet</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>InfraSec</b></td>
+    <td>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>
+      </p>
+    </td>
+    <td>CI/CD pour audits réseau<br>et alerting temps réel.</td>
+  </tr>
+</table>
+
+
 <!--
 ## 📈 Tech Stack
 
