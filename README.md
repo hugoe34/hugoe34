@@ -176,6 +176,40 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 
 ---
 
+<table>
+  <tr>
+    <th>Projet</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>InfraSec</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>
+    </td>
+    <td>CI/CD pour audits réseau<br>et alerting temps réel.</td>
+  </tr>
+  <tr>
+    <td><b>RealtimeDash</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/></a>
+    </td>
+    <td>Dashboard temps réel pour<br>observabilité et monitoring.</td>
+  </tr>
+  <tr>
+    <td><b>PkgSigner</b></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/Cryptography-FFD43B?logo=lock&logoColor=black"/></a>
+    </td>
+    <td>Signature & vérification<br>de packages sécurisés.</td>
+  </tr>
+</table>
+
 <!--
 ## 📈 Tech Stack
 
