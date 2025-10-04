@@ -132,44 +132,43 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 
   <tr>
-    <td align="center"><b>InfraSec</b>
+    <td align="center"><b>MRHE Services<br>Corporate Showcase Website</b>
     </td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a>
     </td>
     <td align="center">
-      CI/CD pour audits réseau<br>
-      et alerting temps réel.
+      A responsive corporate showcase website built for MRHE Services, highlighting the company’s expertise and services with a modern, SEO-friendly design. Developed with performance, accessibility, and scalability in mind.
     </td>
     <td align="center">
-      linkhear
+      <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/></a>
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>RealtimeDash</b></td>
+    <td align="center"><b>L’Atelier Floral<br>Showcase & E-Commerce Website</b></td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/></a>
     </td>
     <td align="center">
-      Dashboard temps réel<br>
-      pour observabilité.
+      A hybrid showcase and e-commerce platform for L’Atelier Floral, allowing users to explore floral creations and make online purchases. Built with a focus on UX design, payment integration, and content management flexibility.
     </td>
   </tr>
 
   <tr>
-    <td align="center"><b>PkgSigner</b></td>
+    <td align="center"><b>DeezerStream<br>Music Streaming App (Deezer API Integration)</b></td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/Cryptography-FFD43B?logo=lock&logoColor=black"/></a>
     </td>
     <td align="center">
-      Signature & vérification<br>
-      de packages sécurisés.
+      A modern application for streaming music using the Deezer API. Features include dynamic playlist generation, artist search, and real-time audio playback. Designed with a modular architecture and responsive UI.
     </td>
   </tr>
 </table>
