@@ -200,4 +200,15 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 ![Snake animation](https://github.com/SKH1995/SKH1995/blob/output/github-contribution-grid-snake.svg)
 ---
 
+<p align="center">
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/hugo-egry-666182371/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=social&logo=logmein&logoColor=white"></a>
+  &nbsp;
+  <!-- git hub -->
+  <a href="https://github.com/hugoegry"><img src="https://img.shields.io/badge/Git%20Hub-hugoegry-blue?style=social&logo=refinedgithub"></a>
+  &nbsp;
+  <!-- mail -->
+  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=maildotru"></a>
+</p>
+
 📫 Contact : **ton.email@example.com**
