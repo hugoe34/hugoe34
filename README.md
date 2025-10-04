@@ -7,6 +7,8 @@ A **modern C# desktop music player** integrating the **Deezer API**, designed fo
 
 ---
 
+### Enjoying DeezerPlayer? ⭐ Star this repo and follow me on GitHub to stay updated with exciting projects and future releases!
+
 ## 🚀 Features
 
 - 🎵 Stream music directly from Deezer
