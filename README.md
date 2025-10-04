@@ -55,7 +55,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <!--<h2 align="center" style="border: none;"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>-->
 <p align="center">
     <img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30" alt="">
-    **MY SKILLS &amp; EXPERTISE**
+    <strong>MY SKILLS &amp; EXPERTISE</strong>
   </p>
 
 <h3>Programming Languages</h3>
