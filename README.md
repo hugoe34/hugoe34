@@ -41,14 +41,11 @@
 
 ## 🤝 Collaborators
 
-### Hugo Egry
 <h3>Hugo Egry <a href="https://github.com/hugoegry"><img src="https://img.shields.io/badge/Git%20Hub-hugoegry-blue?style=social&logo=refinedgithub"></a></h3>
+<br>
 <h3>Rewann Tannou <a href="https://github.com/RewannTannou"><img src="https://img.shields.io/badge/Git%20Hub-RewannTannou-blue?style=social&logo=refinedgithub"></a></h3>
+<br>
 <h3>Manech Laguens <a href="https://github.com/Manech-Laguens"><img src="https://img.shields.io/badge/Git%20Hub-Manech&ndashLaguens-blue?style=social&logo=refinedgithub"></a></h3>
-
-### Rewann Tannou
-
-### Manech Laguens
 
 ---
 
