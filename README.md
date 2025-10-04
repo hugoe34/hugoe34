@@ -166,7 +166,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   <tr>
     <td align="center"><b>DeezerStream<br>Music Streaming App (Deezer API Integration)</b></td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Deezer-FEAA2D?&logo=undertale&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/Deezer-000?&logo=undertale&logoColor=9D36F7"/></a><br>
       <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/></a>
     </td>
     <td align="center">
