@@ -3,8 +3,8 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
 -->
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
-<h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Salut, moi c'est Hugo Egry</h1>
-<p align="center">Je transforme l'abstrait en concret, le fragile en robuste, le provisoire en pérenne.</p>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> Hi, I’m Hugo Egry</h1>
+<p align="center">turning ideas into reality, fragile into strong, temporary into lasting.</p>
 
 ---
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
 </p>
 <br><br>
-<h2 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> À propos de moi</h2>
+<h2 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> About Me</h2>
 
 <p align="center">
 Je suis un développeur passionné par l’univers du <strong>numérique</strong> et du <strong>développement</strong> sous toutes ses formes.
@@ -44,14 +44,14 @@ Pour moi, le <strong>développement</strong> n’est pas seulement un métier : 
 Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour mettre mes compétences en pratique et contribuer à des projets concrets.
 </p>
 
-<p align="center"><strong>N’hésitez pas à me contacter :</strong>  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
+<p align="center"><strong>Feel free to reach out to me :</strong>  <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a></p>
 
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 ---
 
 <br>
-<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> Mes competences</h2>
+<h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>
 
 ## 🛠️ Langages de programation
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white)](#)
@@ -120,7 +120,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 <br><br>
-<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Derniers projets</h2>
+<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Recent Projects</h2>
 <br>
 
 <table>
