@@ -135,9 +135,10 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
     <td align="center"><b>MRHE Services<br>Corporate Showcase Website</b>
     </td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
     </td>
     <td align="center">
@@ -151,9 +152,11 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   <tr>
     <td align="center"><b>L’Atelier Floral<br>Showcase & E-Commerce Website</b></td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a><br>
+      <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
     </td>
     <td align="center">
       A hybrid showcase and e-commerce platform for L’Atelier Floral, allowing users to explore floral creations and make online purchases. Built with a focus on UX design, payment integration, and content management flexibility.
@@ -163,8 +166,8 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   <tr>
     <td align="center"><b>DeezerStream<br>Music Streaming App (Deezer API Integration)</b></td>
     <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Cryptography-FFD43B?logo=lock&logoColor=black"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/></a><br>
+      <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/></a>
     </td>
     <td align="center">
       A modern application for streaming music using the Deezer API. Features include dynamic playlist generation, artist search, and real-time audio playback. Designed with a modular architecture and responsive UI.
