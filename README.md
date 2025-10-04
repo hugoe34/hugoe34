@@ -49,8 +49,9 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <!--||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||-->
 
 ---
-<div align="center">
+
 <br>
+<div align="center">
 <h2 align="center"><img src="https://cdn-icons-gif.flaticon.com/17122/17122378.gif" height="30" width="30"> My Skills & Expertise</h2>
 
 <h3>Programming Languages</h3>
