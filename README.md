@@ -132,7 +132,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 
   <tr>
-    <td align="center"><b>MRHE Services<br>Corporate Showcase Website</b>
+    <td align="center" width="300"><b>MRHE Services<br>Corporate Showcase Website</b>
     </td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
@@ -150,7 +150,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 
   <tr>
-    <td align="center"><b>L’Atelier Floral<br>Showcase & E-Commerce Website</b></td>
+    <td align="center" width="300"><b>L’Atelier Floral<br>Showcase & E-Commerce Website</b></td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a><br>
@@ -164,7 +164,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 
   <tr>
-    <td align="center"><b>DeezerStream<br>Music Streaming App (Deezer API Integration)</b></td>
+    <td align="center" width="300"><b>DeezerStream<br>Music Streaming App (Deezer API Integration)</b></td>
     <td align="center">
       <a href="#"><img src="https://img.shields.io/badge/Deezer-000?&logo=undertale&logoColor=9D36F7"/></a><br>
       <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/></a>
