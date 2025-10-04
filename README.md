@@ -131,106 +131,11 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
   </tr>
 </table>
 
-
-
-
-
-<!--
-<strong>JavaScript</strong> (85%)  
-<svg width="100%" height="14">
-  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
-  <rect width="85%" height="14" fill="#f7df1e" rx="7"/>
-</svg>
-<sub>Frameworks: React, Next.js, Node.js</sub>  
-
-<strong>Python</strong> (80%)  
-<svg width="100%" height="14">
-  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
-  <rect width="80%" height="14" fill="#3572A5" rx="7"/>
-</svg>
-<sub>Frameworks: Django, Flask, FastAPI</sub>  
-
-<strong>Go</strong> (70%)  
-<svg width="100%" height="14">
-  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
-  <rect width="70%" height="14" fill="#00ADD8" rx="7"/>
-</svg>
-<sub>Frameworks: Gin, Echo</sub>  
-
-<strong>Rust</strong> (55%)  
-<svg width="100%" height="14">
-  <rect width="100%" height="14" fill="#e9eef5" rx="7"/>
-  <rect width="55%" height="14" fill="#dea584" rx="7"/>
-</svg>
-<sub>Frameworks: Actix, Tokio</sub>  -->
-
 ---
 
-## 📂 Derniers projets
-
-| Projet       | Stack                  | Description rapide |
-|--------------|------------------------|--------------------|
-| **InfraSec** | Go • Docker • K8s      | CI/CD pour audits réseau et alerting temps réel |
-| **RealtimeDash** | Node.js • React • WS | Dashboard temps réel pour observabilité |
-| **PkgSigner** | Python • Cryptography | Signature & vérification de packages |
-
----
-
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Stack</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>InfraSec</b></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>
-    </td>
-    <td>CI/CD pour audits réseau<br>et alerting temps réel.</td>
-  </tr>
-  <tr>
-    <td><b>RealtimeDash</b></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/></a>
-    </td>
-    <td>Dashboard temps réel pour<br>observabilité et monitoring.</td>
-  </tr>
-  <tr>
-    <td><b>PkgSigner</b></td>
-    <td>
-      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/Cryptography-FFD43B?logo=lock&logoColor=black"/></a>
-    </td>
-    <td>Signature & vérification<br>de packages sécurisés.</td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <th>Projet</th>
-    <th>Stack</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>InfraSec</b></td>
-    <td>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/></a><br>
-        <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/></a>
-      </p>
-    </td>
-    <td>CI/CD pour audits réseau<br>et alerting temps réel.</td>
-  </tr>
-</table>
-
+<br><br>
+<h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Derniers projets</h2>
+<br>
 
 <table>
   <tr>
