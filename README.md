@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/hugoegry/DeezerPlayer?style=social)](https://github.com/hugoegry/DeezerPlayer/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/hugoegry?label=Follow&style=social)](https://github.com/hugoegry)
 
-# A **modern C# desktop music player** integrating the **Deezer API**, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.
+## A **modern C# desktop music player** integrating the **Deezer API**, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.
 
 ---
 
