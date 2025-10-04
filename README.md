@@ -123,7 +123,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
 <h2 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMndjc2pyNDN3dGw1ZTdjY3psOHB2MHZxZ2lma2UwdGpyeHo5dXhhdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJP7EH5i1fB2rKeWbf/200w.gif" height="30" width="30"> Derniers projets</h2>
 <br>
 
-<table>
+<table align="center">
   <tr>
     <th>Projet</th>
     <th>Stack</th>
