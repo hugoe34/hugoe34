@@ -11,8 +11,10 @@
 </p>
 <br>
 
+<h2 align="center"><strong>DeezerPlayer</strong> is a modern C# desktop music player leveraging the <strong>Deezer API</strong>, offering seamless music streaming, playlist management, and real-time playback. Designed with a clean and intuitive interface</h2> 
 
-<h2 align="A <strong>modern C# desktop music player</strong> integrating the <strong>Deezer API</strong>, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.</h2>  
+
+<h2 align="center">A <strong>modern C# desktop music player</strong> integrating the <strong>Deezer API</strong>, designed for seamless streaming, playlist management, and real-time audio playback with a clean, intuitive interface.</h2>  
 
 ---
 
