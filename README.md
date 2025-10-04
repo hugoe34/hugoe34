@@ -141,7 +141,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
       <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       A responsive corporate showcase website built for MRHE Services, highlighting the company’s expertise and services with a modern, SEO-friendly design. Developed with performance, accessibility, and scalability in mind.
     </td>
     <td align="center">
@@ -158,7 +158,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
       <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       A hybrid showcase and e-commerce platform for L’Atelier Floral, allowing users to explore floral creations and make online purchases. Built with a focus on UX design, payment integration, and content management flexibility.
     </td>
   </tr>
@@ -169,7 +169,7 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
       <a href="#"><img src="https://img.shields.io/badge/Deezer-000?&logo=undertale&logoColor=9D36F7"/></a><br>
       <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/></a>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       A modern application for streaming music using the Deezer API. Features include dynamic playlist generation, artist search, and real-time audio playback. Designed with a modular architecture and responsive UI.
     </td>
   </tr>
