@@ -135,11 +135,10 @@ Actuellement, je suis à la recherche d’une <strong>alternance</strong> pour m
     <td align="center"><b>MRHE Services<br>Corporate Showcase Website</b>
     </td>
     <td align="center">
+      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Java%20Script-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/></a><br>
-      <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/></a><br>
       <a href="#"><img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/></a>
       <a href="#"><img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a>
     </td>
     <td align="center">
       A responsive corporate showcase website built for MRHE Services, highlighting the company’s expertise and services with a modern, SEO-friendly design. Developed with performance, accessibility, and scalability in mind.
